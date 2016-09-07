@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='redict',
-      version='0.0.0',
+      version='0.0.1',
       description=u"Dictionary-like object that uses regular expressions instead of keys",
       classifiers=[],
       keywords='re',
